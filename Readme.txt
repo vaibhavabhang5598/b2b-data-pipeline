@@ -66,6 +66,10 @@ Output Table:
 
 * b2b_silver.silver_standardized_sales
 
+Output CSV :
+
+* Gold_Data.csv
+
 ---
 
 ### 🔹 Gold Layer (Business Aggregates)
