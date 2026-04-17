@@ -1,0 +1,723 @@
+date,seller_code,Display Name,Company Name,Seller Type,brand,SKU Code,SKU Name,Category L1,Category L2,Category L3,MRP,Display Price,Selling Price,Total Qty,Total Orders,Total Customers,Platform
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,209804,167796,156905.68,118,110,109,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,287179,243167.8,227916.97,316,311,311,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,1093,1033.44,1,1,1,Nykaa Man
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,33915,32215,30566.33,85,84,84,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,999,949,871.75,1,1,1,Nykaa Man
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,5244,4194,4044.49,3,3,3,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,47647,40402.4,38017.32,53,49,49,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,6487,6162,5699.23,13,13,13,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,68714,57757.2,54635.63,86,75,75,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,6286,5341,5196.78,7,7,7,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,8490,7220,6696.49,10,10,10,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,1798,1528,1396,2,2,2,Nykaa Man
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,17184,13744,12210.85,8,8,8,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,109250,95987,89662.78,95,91,91,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,27580,20692,20340.32,14,11,11,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,94721,80501,74392.8,79,71,71,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,3556,2844,2844,2,2,2,Nykaa Man
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,85100,73091,68417.16,74,69,69,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,1598,1358,1223.52,2,2,2,Nykaa Man
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,36963,35113,32084.59,37,36,36,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,12586,10606.4,10035.7,14,14,14,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,6304,6155.13,4,4,4,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,38657,32852,30470.7,43,42,42,Nykaa Beauty
+31-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1019,1019,1,1,1,Nykaa Man
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,104650,92363,87471.61,91,89,88,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,10788,8988.8,8753.41,12,12,12,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,202496,171554.6,163669.64,224,220,220,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,88550,77061,73030.22,77,77,76,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,32319,30699,28968.58,81,81,81,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,56729,48129.4,45588,71,68,68,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,7184,6104,5971.47,8,8,8,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,167976,134352,127913.51,90,81,80,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,977.5,977.5,1,1,1,Nykaa Man
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,36859,31144.8,29842.3,41,40,40,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,36859,31324,30274.26,41,40,40,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,17730,13302,12745.56,9,9,9,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,62348,52988,50653.61,52,52,52,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1778,1422,1237.63,1,1,1,Nykaa Man
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,6487,6162,5901.46,13,13,13,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,17730,14184,13509.83,9,9,9,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,12888,10308,9746.23,6,6,6,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,1150,977.5,977.5,1,1,1,Nykaa Man
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,30969,29419,28859.27,31,31,31,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,6992,5592,5174.7,4,3,3,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,1970,1478,1359.62,1,1,1,Nykaa Man
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,6792,5776,5597.99,8,7,7,Nykaa Beauty
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,2398,2038,1956.38,2,2,2,Nykaa Man
+30-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,2637,2241,2236.54,3,3,3,Nykaa Man
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,29667,26697,26139.54,33,33,33,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,5244,4194,4089.96,3,3,3,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,22977,22977,22203.49,23,23,23,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,83950,74593.5,71272.68,73,72,72,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,62100,53826.5,51477,54,53,53,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,1093,1082.01,1,1,1,Nykaa Man
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,118865,104822,102074.64,63,58,58,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,3777,3324,3149.31,2,2,2,Nykaa Man
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,6487,6162,5947.61,13,13,13,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,5394,4854,4596.13,6,6,6,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,5094,4584,4521.21,6,6,6,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,19778,17798,16949.83,22,22,22,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,399,379,338.74,1,1,1,Nykaa Man
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,23640,21276,20421.65,12,10,10,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,2148,1718,1579.35,1,1,1,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,11820,10638,10617.82,6,5,5,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,949,854,744.13,1,1,1,Nykaa Man
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,61149,55029,53613.87,51,44,44,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,169911,152321.6,145289.08,189,185,185,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,38352,34512,32682.42,48,46,46,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,8082,6867,6651.47,9,9,9,Nykaa Beauty
+29-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,26733,25393,24556.82,67,66,66,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,34965,34965,33335.62,35,33,33,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,1970,1773,1728.6,1,1,1,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,21546,20466,19594.01,54,54,54,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,47141,41303.8,39499.1,59,50,50,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,5943,5348,5126.33,7,7,7,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1079,1004.99,1,1,1,Nykaa Man
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,8483,8058,7840.77,17,17,17,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000022,inde wild Dewy Lip Balms - Glazed Jalebi,Skin,Lip Care,Lip Balm,899,809,809,1,1,1,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,2694,2289,2129.21,3,3,3,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,69000,61135.5,58702.54,60,60,60,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,90850,81902.5,79315.01,79,77,76,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,6293,5663,5596.67,7,7,7,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,9850,8865,8767.05,5,5,5,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,799,719,681.07,1,1,1,Nykaa Man
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,153043,136956.8,131483.43,172,170,170,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,399,379,353.01,1,1,1,Nykaa Man
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1759,1759,1,1,1,Nykaa Man
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,5244,4194,4169.51,3,3,3,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,16182,14562,13452.04,18,18,18,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,103948,91468,87978.26,52,44,44,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,25172,22652,21670.38,28,27,27,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,56353,50713,48894.65,47,44,44,Nykaa Beauty
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,1093,1078.21,1,1,1,Nykaa Man
+28-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,6444,5154,4811.76,3,3,3,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,95299,83863,82354.34,49,49,49,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,2697,2337.2,2263.22,3,3,3,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,21546,20466,20231.17,54,54,54,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,5943,5348,5112.98,7,7,7,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,46761,42081,41280.56,39,39,39,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,21576,19326.2,19145.4,24,23,23,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,15036,12026,11829.66,7,7,7,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,6286,5341,5174.86,7,7,7,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,8982,8532,8488.24,18,18,18,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,149768,133548.8,130946.77,167,163,163,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,83950,74595,72946.79,73,68,67,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,30969,30969,30657.11,31,30,30,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,22475,20225,20004.52,25,25,25,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,1748,1398,1395.47,1,1,1,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,43146,37708.8,37088.2,54,40,39,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,9850,8865,8838.04,5,5,5,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,9850,8865,8751.19,5,5,5,Nykaa Beauty
+27-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,59800,51642,50585.74,52,49,48,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,13790,12411,11357.6,7,7,7,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,6992,5592,5161.31,4,4,4,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,110400,94942.5,86880.93,96,96,96,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,17081,14922,13895.18,19,19,19,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,301535,269525.2,249090.98,335,326,325,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,150650,133197.5,122429.72,131,124,123,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1079,973.7,1,1,1,Nykaa Man
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,62937,53787,50022.48,63,63,63,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,6444,5154,4752.12,3,3,3,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,399,379,379,1,1,1,Nykaa Man
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,73508,65030.8,60517.78,92,83,83,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,8483,8058,7326.42,17,16,16,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,221949,195327,180880.77,117,105,104,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,35910,34110,32026.49,90,90,90,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,5910,5319,5130.5,3,2,2,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,32364,29124,26991.59,36,35,35,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,844,760,744.46,1,1,1,Nykaa Man
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,65945,59345,54797.92,55,49,49,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1778,1565,1359.81,1,1,1,Nykaa Man
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,53041,47282,43055.17,59,59,59,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,6286,5341,4783.96,7,7,7,Nykaa Beauty
+26-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,7641,6876,6235.99,9,9,9,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,109250,91327,85570.28,95,94,94,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,4990,4740,4484.64,10,10,10,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,81532,69352.4,63883.28,68,63,63,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,15036,12026,10787.08,7,7,7,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,899,764,764,1,1,1,Nykaa Man
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,15760,11824,11154.49,8,7,7,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,51243,43324,40914.91,57,54,54,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,10188,8664,8155.07,12,11,11,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,798,758,758,2,2,2,Nykaa Man
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,77503,65744.2,61521.61,97,91,90,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,9878,8528,8067,11,10,10,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,254283,215566,201395.4,282,277,276,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,10488,8388,7693.96,6,6,6,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,155250,130447,122865.72,135,127,126,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,949,759.2,671.57,1,1,1,Nykaa Man
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,3450,2876,2711.69,3,3,3,Nykaa Man
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,38657,32852,31316.13,43,42,42,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,2300,1898,1740.7,2,2,2,Nykaa Man
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,69930,59430,56099.62,70,67,67,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,29127,27687,25898.88,73,73,73,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,163305,130617,119073.56,87,81,81,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,17730,14184,13079.48,9,7,7,Nykaa Beauty
+25-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,17081,14292,13400.24,19,19,19,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,27930,26530,25345.02,70,70,70,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,69513,58754.6,55689.67,87,82,82,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,799,679,679,1,1,1,Nykaa Man
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,3940,3152,3152,2,2,2,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,19778,16673.6,16101.42,22,22,22,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,12888,10308,9991.86,6,5,5,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,115000,96683.5,91774.13,100,95,95,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,8490,7220,6649.8,10,10,10,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,53955,45855,43846.3,45,44,44,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,399,379,324.02,1,1,1,Nykaa Man
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,157308,125820,118368.82,84,76,76,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000022,inde wild Dewy Lip Balms - Glazed Jalebi,Skin,Lip Care,Lip Balm,899,764,764,1,1,1,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1019,911.99,1,1,1,Nykaa Man
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,5910,4434,4412.75,3,3,3,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,206825,174927.8,164298.98,230,229,229,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,899,764,764,1,1,1,Nykaa Man
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,78200,65387.5,62639.94,68,66,66,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,999,849,849,1,1,1,Nykaa Man
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,34162,28897.6,27520.06,38,38,38,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,36859,31324,29803.26,41,39,39,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,51948,44148,42005.96,52,51,51,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,4490,3815,3591.39,5,5,5,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,4491,4266,4045.19,9,9,9,Nykaa Beauty
+24-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,3777,3021,2959.43,2,2,2,Nykaa Man
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,35960,30470.4,28748.37,40,39,39,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,15036,12026,10844.22,7,7,7,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,23640,17736,17090.34,12,11,11,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,194702,164494.4,156188.97,218,211,209,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,55131,46453,44193.95,69,63,63,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,126500,105765,100588.22,110,105,105,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,15283,12898.4,12398.34,17,16,15,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,140181,112125,106192.79,73,66,66,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,41354,35144,33710.21,46,46,46,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,899,764,764,1,1,1,Nykaa Man
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,1748,1398,1170.92,1,1,1,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,17157,16297,15357.05,43,43,43,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,899,764,764,1,1,1,Nykaa Man
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,977.5,857.02,1,1,1,Nykaa Man
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,1150,977.5,857.02,1,1,1,Nykaa Man
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,56943,48393,46639.72,57,52,52,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,80333,68153.4,65282.28,67,61,61,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,94300,78381,74180.03,82,80,80,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,8490,7220,7041.2,10,10,10,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,3992,3792,3497.39,8,8,8,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,7184,6104,5930.9,8,8,8,Nykaa Beauty
+23-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,6304,5653.23,4,4,4,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,4296,3436,3036,2,2,2,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,25536,24256,23299.47,64,63,63,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,180984,153048.4,148026.81,201,194,194,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,134626,107682,105047.06,70,62,62,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,3992,3792,3668.46,8,8,8,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,44051,37436,35946.84,49,46,46,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1599,1506.2,1,1,1,Nykaa Man
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,7184,6104,5896.21,8,8,8,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,11820,8868,8485.22,6,6,6,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1019,1019,1,1,1,Nykaa Man
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,798,758,758,2,2,2,Nykaa Man
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,56943,48393,47191.61,57,56,56,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,6304,6165.35,4,4,4,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,849,722,688.95,1,1,1,Nykaa Man
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,7641,6498,6191.49,9,9,9,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,36859,31324,30427.53,41,38,38,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,59950,50950,49538.02,50,48,48,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,10488,8388,8239.32,6,6,6,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,55930,47211.6,45531.61,70,63,63,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1688,1434,1434,2,2,2,Nykaa Man
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,6293,5348,4946.52,7,7,7,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,108100,90931,87870.72,94,91,91,Nykaa Beauty
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,978,978,1,1,1,Nykaa Man
+22-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,78200,65503,63545.01,68,64,64,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,53946,45846,44204.02,54,53,53,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,949,807,721.32,1,1,1,Nykaa Man
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,32364,27504,26438.21,36,34,34,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,2300,1955,1806.41,2,2,2,Nykaa Man
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,45562,38722,37526.91,38,37,37,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,9878,8393,8023.21,11,11,11,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,69000,58199,56369.03,60,58,58,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,9850,7880,7856.21,5,5,5,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,6444,5154,4989.33,3,3,3,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,180055,152668.6,146333.51,205,201,200,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,115751,92583,89435.17,61,58,58,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,59925,50527,49138.81,75,69,69,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,100050,84605,81908.61,87,84,84,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,1748,1398,1374.56,1,1,1,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,38657,32807.2,31806.1,43,43,43,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,7485,7110,6911.44,15,15,15,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1778,1422,1422,1,1,1,Nykaa Man
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,12586,10651.2,10192.59,14,14,14,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,2300,1955,1806.41,2,2,2,Nykaa Man
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,9339,7942,7877.32,11,10,10,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,15760,11824,11529.59,8,8,8,Nykaa Beauty
+21-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,27930,26530,25617.22,70,69,69,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,798,758,702.35,2,2,2,Nykaa Man
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,1970,1576,1418.4,1,1,1,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,83950,71138,69834.89,73,70,70,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1599,1599,1,1,1,Nykaa Man
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1688,1434,1397.38,2,2,2,Nykaa Man
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,51136,42739.6,41796.24,64,54,53,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,39567,33627,33182.87,33,33,33,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,36963,32913,32082.12,37,36,36,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,34162,28897.6,28359.39,38,38,38,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,1150,977.5,977.5,1,1,1,Nykaa Man
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,2148,1718,1577.37,1,1,1,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,2398,2038,1875.98,2,2,2,Nykaa Man
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,169644,143364.6,141134.04,201,193,192,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,6792,5776,5676.35,8,8,8,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,898,763,713.45,1,1,1,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,11687,9797.6,9593.5,13,13,13,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,4990,4740,4735.78,10,10,10,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,115000,98464,96834.67,100,92,92,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,3496,2796,2642.65,2,2,2,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,977.5,977.5,1,1,1,Nykaa Man
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,29667,25212,25037.65,33,32,32,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,9850,7390,7367.82,5,5,5,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,17556,16676,16448.75,44,44,44,Nykaa Beauty
+20-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,126409,101109,98603.9,66,59,59,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,8592,6872,6777.13,4,4,4,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,26970,22920,21714.53,30,28,28,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,6286,5341,5284.89,7,7,7,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,499,474,433.24,1,1,1,Nykaa Man
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,2547,2166,2091.34,3,3,3,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,5244,4194,4117.91,3,3,3,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,11687,9887.2,9403.57,13,13,13,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,15760,11824,11441.09,8,8,8,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,24738,23498,22789.43,62,62,62,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,2495,2370,2308.37,5,5,5,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,3450,3048,2982.43,3,3,3,Nykaa Man
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1688,1434,1367.74,2,2,2,Nykaa Man
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1197,1137,1053.15,3,3,3,Nykaa Man
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,849,722,722,1,1,1,Nykaa Man
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,144430,115518,112779.07,78,72,72,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,6304,6243.62,4,4,4,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,82800,73154,70819.91,72,72,72,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,1970,1478,1449.84,1,1,1,Nykaa Man
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,71300,62224,60255.67,62,62,62,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,7112,5688,5510.14,4,3,3,Nykaa Man
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,62348,52988,50611.09,52,51,50,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,29667,25167.2,24141.62,33,30,30,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,189791,160897.6,155672.83,224,213,212,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,28971,27521,27349.66,29,28,28,Nykaa Beauty
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,2300,1955,1889.43,2,2,2,Nykaa Man
+19-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,51136,43217.2,41800.13,64,60,60,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,181547,145203,138900.28,99,93,91,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,238008,201650.6,193314.12,282,276,275,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,3450,3048,2830.74,3,3,3,Nykaa Man
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,5244,4194,4119.17,3,3,3,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,74750,64984.5,62853.33,65,65,65,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,8082,6867,6327.35,9,9,9,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,2300,1955,1887.74,2,2,2,Nykaa Man
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,13584,11552,11169.78,16,16,16,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,77503,65465,62850.16,97,91,91,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,44051,37346.4,35433.29,49,47,47,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,3556,2844,2844,2,2,2,Nykaa Man
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,5489,5214,5052.42,11,11,11,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,6304,5943.51,4,4,4,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,844,717,717,1,1,1,Nykaa Man
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,9889,8314.4,7905.07,11,11,11,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,28954,27500,26217.05,74,74,74,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,29667,25212,24085.6,33,31,31,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,74338,63178,59676.18,62,61,61,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,28971,27521,26274.94,29,29,29,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,25610,19214,18560.62,13,10,10,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,799,679,601.71,1,1,1,Nykaa Man
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,15036,12026,11094.57,7,7,7,Nykaa Beauty
+18-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,94300,83565.5,80898.16,82,79,79,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,31465,26740,25526.23,35,35,35,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,50344,42694.4,40229.41,56,56,56,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1019,1016.56,1,1,1,Nykaa Man
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,21978,20878,20070.73,22,22,22,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,156816,125436,120720.61,79,70,70,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,89700,77231,73031.18,78,77,77,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,799,679,529.98,1,1,1,Nykaa Man
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,48739,41180.2,39057.68,61,57,57,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,62348,52988,50579.76,52,46,46,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,2300,1955,1905,2,2,2,Nykaa Man
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,798,758,699.13,2,2,2,Nykaa Man
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,6992,5592,5358,4,4,4,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,9878,8393,8207.66,11,10,10,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,11687,9842.4,9506.52,13,13,13,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,2300,1955,1905,2,2,2,Nykaa Man
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,9850,7880,7620.97,5,5,5,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,19332,15462,14727.43,9,9,9,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1599,1495.66,1,1,1,Nykaa Man
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,25610,19214,18563.95,13,10,10,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1898,1614,1580.28,2,2,2,Nykaa Man
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,95450,82696,78579.87,83,82,82,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,30104,28594,27487.19,76,75,74,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,242790,205569.4,196624.33,270,257,256,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,899,764,745.52,1,1,1,Nykaa Man
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,6487,6162,5786.71,13,13,13,Nykaa Beauty
+17-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,4245,3610,3524.47,5,5,5,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,3450,2875,2600.17,3,3,3,Nykaa Man
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,137774,123034.4,120892.87,161,154,153,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,62100,54577.5,53810.87,54,53,53,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,8091,6921.8,6756.32,9,9,9,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,9850,8865,8781.15,5,5,5,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,499,474,463.72,1,1,1,Nykaa Man
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,2495,2370,2365.06,5,5,5,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,5750,5061,4667.61,5,5,5,Nykaa Man
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,51750,44683.5,44096.45,45,44,44,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,2532,2195.2,1986.09,3,3,3,Nykaa Man
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,113943,100263,99288.51,57,46,46,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,12888,10308,10072.48,6,6,6,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,47141,40984.6,40603.65,59,45,45,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,22475,20315,20144.98,25,25,25,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,26378,23738,23523.67,22,22,22,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,999,999,885.28,1,1,1,Nykaa Man
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,9878,8393,8344.26,11,8,8,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,7092,6930.42,4,4,4,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,21546,20466,20210.22,54,52,52,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,5244,4194,4121.31,3,3,3,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,30566,27146.8,26860.82,34,34,34,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,30969,30969,30764.95,31,30,30,Nykaa Beauty
+16-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,9339,8404,8245.7,11,9,9,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,20677,19372.4,19021.7,23,23,23,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,70150,60325.5,59717.19,61,57,57,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,7485,7110,7022.03,15,15,15,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,5943,5649,5490.09,7,6,6,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,94300,83278.5,82465.52,82,78,78,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,2148,1933,1923.67,1,1,1,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1139,1139,1,1,1,Nykaa Man
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,23374,22204,21900.5,26,25,25,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,30969,30969,30235.27,31,31,31,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,140948,131440,128613.23,167,162,162,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,6286,5746,5707.81,7,7,7,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,3496,3146,3146,2,2,2,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000033,inde wild Luminary Eye Concentrate - Dark Circle Reduction Eye Cream,Skin,Eye Care,Under Eye Cream Serums,1599,1519,1501.52,1,1,1,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,48739,44621.8,43761.74,61,50,50,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,4220,3883.2,3553.15,5,5,5,Nykaa Man
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,799,759,662.34,1,1,1,Nykaa Man
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,1150,920,810.26,1,1,1,Nykaa Man
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,43164,41004,40555.88,36,36,36,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,6293,5708.4,5592.8,7,7,7,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,920,810.26,1,1,1,Nykaa Man
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,7880,7488,7453.3,4,3,3,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,21150,20088,19559.05,54,54,54,Nykaa Beauty
+15-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,112406,104682,103229.48,58,49,49,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,12586,11956,11515.11,14,14,14,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,1150,920,830.73,1,1,1,Nykaa Man
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,7184,6464,6153.26,8,8,8,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,141792,132707.2,130566.53,168,160,160,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,75900,66136,65254.79,66,65,64,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,7488,7438.37,4,3,3,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000033,inde wild Luminary Eye Concentrate - Dark Circle Reduction Eye Cream,Skin,Eye Care,Under Eye Cream Serums,4797,4557,4508.24,3,3,3,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,10788,10248,10084.02,12,12,12,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,2300,2013,1895.63,2,2,2,Nykaa Man
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,3376,3081.2,2979.92,4,4,4,Nykaa Man
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,5988,5688,5667.95,12,12,12,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,11820,11232,11018.96,6,5,5,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,26387,25059,24664.91,69,68,68,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,98900,87996,86597.61,86,82,81,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,52756,50116,48940.9,44,40,39,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,22475,21350,21235.28,25,25,25,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,26973,26973,26408.13,27,26,26,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,999,999,869.87,1,1,1,Nykaa Man
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,1748,1573,1567.34,1,1,1,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,23970,22530.4,22032.29,30,29,29,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,2148,1933,1933,1,1,1,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,6792,6456,6314.6,8,8,8,Nykaa Beauty
+14-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,74646,69426,68558.79,39,35,35,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,17982,17982,17570.99,18,17,17,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,54050,46523,45326.96,47,46,46,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,26970,24811.2,24327.95,30,29,29,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,43945,40307.4,39733.37,55,46,46,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1688,1604,1509.75,2,2,2,Nykaa Man
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,20220,19204,18672.16,52,51,51,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,40766,38726,38002.59,34,33,33,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,152764,143640.4,141513.06,181,174,174,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,14384,13664,13574.71,16,15,15,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,2994,2844,2724,6,6,6,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,77050,68383,66849.87,67,63,63,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,10740,9665,9268.09,5,5,5,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000033,inde wild Luminary Eye Concentrate - Dark Circle Reduction Eye Cream,Skin,Eye Care,Under Eye Cream Serums,1599,1519,1324.26,1,1,1,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,5910,5616,5573.05,3,3,3,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,5244,4719,4703.52,3,3,3,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,2547,2421,2421,3,3,3,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,7192,6023.2,6006.03,8,8,8,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,7880,7488,7424.14,4,4,4,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,73973,68797,68076.2,38,38,38,Nykaa Beauty
+13-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,2694,2424,2329.11,3,3,3,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,8990,8270.4,8082.08,10,10,10,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,899,854,800.9,1,1,1,Nykaa Man
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,69000,58942,58217.8,60,59,58,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,29975,28475,28261.56,25,25,24,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,26071,24496.4,23667.23,29,27,27,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,3940,3744,3727.46,2,2,2,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,1598,1518,1466.95,2,2,2,Nykaa Man
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,47141,43583,42890.88,59,51,51,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,21978,21978,21768.23,22,22,22,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,4600,4083.5,4056.94,4,4,4,Nykaa Man
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,168978,158871.6,156922.26,192,186,185,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,26651,25311,24623.77,69,69,69,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,3940,3744,3716.29,2,2,2,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,7485,7110,7020.21,15,15,15,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,28768,27328,26798.76,32,32,32,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,899,854,800.9,1,1,1,Nykaa Man
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,355,337,336.09,1,1,1,Nykaa Man
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,92000,80802,79817.89,80,79,78,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,2300,1897.5,1870.94,2,2,2,Nykaa Man
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,10740,9665,9647.68,5,5,5,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,89955,83655,82842.42,45,44,44,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1859,1859,1,1,1,Nykaa Man
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,6792,6456,6418.96,8,8,8,Nykaa Beauty
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,5274,4869.2,4719.82,6,6,6,Nykaa Man
+12-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,7184,6464,6455.35,8,7,7,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,6433,5515.6,5373.5,7,7,7,Nykaa Man
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,5489,5214,5053.09,11,11,11,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,799,719,709,1,1,1,Nykaa Man
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,3450,2760,2710.04,3,3,3,Nykaa Man
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,30566,27326.4,26733.34,34,34,34,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,17730,15957,15884.68,9,7,7,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,798,758,758,2,2,2,Nykaa Man
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,10740,8590,8485.65,5,5,5,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,14384,12764.4,12434.84,16,16,16,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,13790,12411,12240.4,7,6,6,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,8980,7630,7478.91,10,9,9,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,62348,56108,55408.5,52,45,45,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,199754,177005.2,174156.18,221,219,219,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,6792,6112,5906.39,8,7,7,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,27930,26530,25532.17,70,69,69,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,29667,26697,26115.23,33,32,31,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,145927,128407,126960.21,73,67,67,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,23976,23976,23816.39,24,23,23,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,3450,2760,2710.05,3,3,3,Nykaa Man
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,43146,38028,37155.25,54,46,46,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,2148,1718,1465.97,1,1,1,Nykaa Man
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,135700,119337.5,117083.19,118,113,112,Nykaa Beauty
+11-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,92000,77803.5,76632.57,80,75,75,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,6792,6112,5896.93,8,8,8,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,185826,162420,159877.06,204,196,196,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,799,719,719,1,1,1,Nykaa Man
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,1150,1093,941.61,1,1,1,Nykaa Man
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,27869,25079,24431.34,31,31,31,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,22475,20225,19996.84,25,25,25,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,844,760,734.58,1,1,1,Nykaa Man
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,4990,4740,4623.27,10,10,10,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,10788,9708,9616.63,12,12,12,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,7092,7088.59,4,4,4,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,499,474,435.65,1,1,1,Nykaa Man
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,24339,23119,22645.4,61,61,61,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,45562,39490,39178.62,38,35,35,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,165917,138457,137604.71,83,73,72,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,101200,88627.5,87325.14,88,86,86,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,399,379,348.34,1,1,1,Nykaa Man
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,5910,5319,5319,3,3,3,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,33966,33966,33551.27,34,33,33,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,8980,7630,7563.04,10,10,10,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,66700,56297.5,55603.88,58,56,56,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,4296,3436,3385.97,2,2,2,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,57528,51129.6,50185.68,72,67,67,Nykaa Beauty
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,1970,1773,1673,1,1,1,Nykaa Man
+10-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,6992,5592,5336.22,4,4,4,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,4600,3795,3640.41,4,4,4,Nykaa Man
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,5589,5026.4,4778.02,6,6,6,Nykaa Man
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,144704,135248.4,133625.05,161,155,155,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,6444,5799,5749.56,3,2,2,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,43945,40786.6,40459.29,55,51,51,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,6900,5981,5823.6,6,6,6,Nykaa Man
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,3396,3228,3134.73,4,4,4,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,40766,38726,38066.65,34,33,33,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,7488,7021.15,4,4,4,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,7184,6464,6403.34,8,8,8,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,11820,11232,10724.91,6,6,6,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,90850,79941,79255.22,79,75,74,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,77050,66825,66016.5,67,64,64,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,18879,17934,17846.49,21,21,21,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,99950,92950,92423.89,50,44,44,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,25935,24655,24217.93,65,65,65,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,5988,5688,5505.92,12,12,12,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,8740,7865,7781.63,5,5,5,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,33263,31463.2,30807.37,37,36,36,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,29970,29970,29502.63,30,30,30,Nykaa Beauty
+09-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,8990,8405.2,8013.14,10,10,10,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,88550,76311.5,75422.1,77,74,74,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,2300,1955,1905,2,2,2,Nykaa Man
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,26733,25393,24877.74,67,65,65,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,9850,9360,9188.24,5,5,4,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,2148,1933,1908.6,1,1,1,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,5489,5214,5118.5,11,11,11,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,1748,1573,1562.65,1,1,1,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,57552,54672,54048.46,48,46,46,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,5388,4848,4758.92,6,6,6,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,499,474,474,1,1,1,Nykaa Man
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,27972,27972,27528.57,28,27,27,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,5094,4842,4818.72,6,6,6,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,13790,13104,13067.01,7,7,7,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,17081,16226,15973.49,19,18,18,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,28768,27058.4,26396.9,32,31,31,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,166535,155811.6,152726.8,185,181,181,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,1598,1518,1518,2,1,1,Nykaa Man
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,2300,1955,1905,2,2,2,Nykaa Man
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,55930,50254.8,49293.47,70,58,58,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,111944,104104,102742.51,56,54,54,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,112700,99264.5,98093.18,98,93,93,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,11687,10832.4,10589.48,13,13,13,Nykaa Beauty
+08-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,3481,3308,3256.73,4,4,4,Nykaa Man
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,119940,111540,110568.28,60,56,56,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,72450,66031.5,65353.61,63,62,62,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1859,1859,1,1,1,Nykaa Man
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,4600,3968,3640.28,4,4,4,Nykaa Man
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,70741,67201,66332.27,59,55,55,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,10740,9665,9628.06,5,5,5,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,4490,4040,4022.33,5,5,5,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,151335,142656.8,140606.5,165,159,159,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,3940,3744,3744,2,1,1,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,101200,93356.5,91929.98,88,84,84,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,6992,6292,6247.48,4,4,4,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,22475,21350,20654.44,25,25,25,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,29970,29970,29451.39,30,28,28,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,5094,4842,4477.52,6,5,5,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,6986,6636,6538.97,14,14,14,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,32364,30474.4,29983.75,36,34,34,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,11820,11232,11232,6,4,4,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,53533,49415.4,48550.09,67,58,58,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1139,1114.29,1,1,1,Nykaa Man
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,27531,26151,25648.19,69,69,69,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,8491,7781.4,7490.69,9,9,9,Nykaa Beauty
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,5750,5061,4706.61,5,5,5,Nykaa Man
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,4535,4183.2,4098.09,5,5,5,Nykaa Man
+07-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,799,759,668.9,1,1,1,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1898,1804,1800.67,2,2,2,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,62100,59022,57911.74,54,54,54,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,58751,55811,55019.91,49,47,47,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,899,854,854,1,1,1,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,4245,4035,4035,5,5,5,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,5910,5616,5046.99,3,3,3,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,92000,87440,86366.1,80,79,79,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,10788,10248,9835.18,12,11,11,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,29127,27667,26935.52,73,70,70,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,3450,3279,3079,3,3,3,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,10740,9665,9547.81,5,5,5,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,4990,4740,4622.02,10,10,10,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1859,1759,1,1,1,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,6993,6993,6689.85,7,7,7,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,29667,28182,27557.19,33,33,33,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,6900,6558,6047,6,6,6,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,97951,91091,89692.02,49,46,46,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,62322,59202,57827.15,78,64,64,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,15760,14976,14592.9,8,4,4,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,1998,1898,1809.26,2,2,2,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1197,1137,1096.38,3,3,3,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,167024,158752,155975.22,176,172,170,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1139,1134.79,1,1,1,Nykaa Man
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,3496,3146,3027.02,2,2,2,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,7892,7497,7457.71,8,8,8,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,5388,4848,4671.98,6,6,6,Nykaa Beauty
+06-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000033,inde wild Luminary Eye Concentrate - Dark Circle Reduction Eye Cream,Skin,Eye Care,Under Eye Cream Serums,1599,1519,1519,1,1,1,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,14485,13035,12833.36,15,15,15,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,204035,183705,180737,215,201,201,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,10776,9156,9099.91,12,11,11,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,33966,33966,33473.27,34,32,32,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,3940,3546,3430.33,2,2,2,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,55131,49611,48805.79,69,59,59,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,78200,74381,73222.73,68,67,67,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,1970,1773,1662.6,1,1,1,Nykaa Man
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,31465,28315,27482.3,35,34,34,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,27531,26191,25553.88,69,68,68,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,3796,3416,3273.17,4,4,4,Nykaa Man
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,61149,55149,54415.42,51,47,47,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1079,924.69,1,1,1,Nykaa Man
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,8592,6872,6672.27,4,4,4,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,2300,2186,2150.05,2,2,2,Nykaa Man
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,6487,6162,6013.78,13,13,13,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,3450,3279,3243.05,3,3,3,Nykaa Man
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,1970,1773,1662.6,1,1,1,Nykaa Man
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,106950,101706,100208.13,93,90,90,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,3940,3546,3444.14,2,2,2,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,6992,5592,5462.84,4,4,4,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,153923,135443,133616.01,77,71,71,Nykaa Beauty
+05-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,8490,7640,7547.49,10,7,7,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,21576,19416,19182.42,24,24,24,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,30723,29183,28570.16,77,77,77,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,223015,200690,197283.08,235,225,224,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,3597,3237,3136.14,3,3,3,Nykaa Man
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,4600,4372,4067.07,4,4,4,Nykaa Man
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,95450,90719,89520.01,83,82,82,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,6444,5154,5154,3,3,3,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,71940,64740,63598.72,60,54,54,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,10776,9156,9041.36,12,12,12,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,7485,7110,7019.64,15,15,15,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,58327,52487,51762.26,73,70,70,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,4600,4372,4086.05,4,4,4,Nykaa Man
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1759,1759,1,1,1,Nykaa Man
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,46953,46953,46597.35,47,46,46,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,151924,133684,131869.14,76,70,70,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,499,474,434.6,1,1,1,Nykaa Man
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,10589,9529,9366.01,11,11,11,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,21670,19503,19118.78,11,10,10,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,4745,4270,4046.83,5,5,5,Nykaa Man
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,75900,72138,71092.95,66,66,66,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,12236,9786,9594.29,7,7,7,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,5094,4584,4189.01,6,5,5,Nykaa Beauty
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,798,758,716.31,2,2,2,Nykaa Man
+04-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,9850,8865,8680.76,5,5,5,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,10776,9156,9011.83,12,12,12,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,25776,20616,20149.61,12,12,12,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1898,1708,1520.07,2,2,2,Nykaa Man
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,116150,110393,108393.06,101,97,97,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,28728,27288,26768.24,72,71,71,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,192647,173362,170722.1,203,198,198,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,57552,51792,51319.59,48,42,42,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,7880,7092,7070.53,4,4,4,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,35964,35964,35453.05,36,35,34,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,131934,116094,114199.92,66,58,58,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,97750,92905,91623.84,85,83,83,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,31465,28315,27979.21,35,32,32,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,5244,4194,4186.68,3,3,3,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,28768,25888,25404.46,32,30,30,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,1199,1079,1027.31,1,1,1,Nykaa Man
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,3450,3279,3135.18,3,3,3,Nykaa Man
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,9850,8865,8841.26,5,5,5,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,6986,6636,6548.43,14,13,13,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,399,379,374.09,1,1,1,Nykaa Man
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,5094,4584,4504.68,6,6,6,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,53533,48173,47436.37,67,63,63,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,14185,12765,12289.45,15,15,15,Nykaa Beauty
+03-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,3450,3279,3135.18,3,3,3,Nykaa Man
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,2847,2706,2640.67,3,3,3,Nykaa Man
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,1150,1093,932.21,1,1,1,Nykaa Man
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,8592,7732,7566.54,4,3,3,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,9850,9360,9306.84,5,4,4,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,34314,32594,31827.4,86,84,83,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,7184,6464,6408.73,8,8,8,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,7984,7584,7433.87,16,16,16,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,58751,55811,55030.35,49,45,45,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,31968,31968,31324.11,32,30,30,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,93953,87373,86349.3,47,42,42,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,3597,3417,3395.45,3,3,3,Nykaa Man
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,41354,39329,38768.41,46,42,42,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,7641,7263,7170.13,9,9,9,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,17730,16848,16747.41,9,8,8,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,169871,161505,158889.48,179,176,176,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,54332,51612,50853.09,68,60,60,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,101200,96184,94328.19,88,85,85,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,27869,26474,25704.1,31,30,30,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,6992,6292,6163.29,4,4,4,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,4895,4650,4624.81,5,5,5,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000033,inde wild Luminary Eye Concentrate - Dark Circle Reduction Eye Cream,Skin,Eye Care,Under Eye Cream Serums,3198,3038,3030.76,2,2,2,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,80500,76510,75378.07,70,68,68,Nykaa Beauty
+02-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000022,inde wild Dewy Lip Balms - Glazed Jalebi,Skin,Lip Care,Lip Balm,1798,1708,1622.6,2,2,2,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,141401,134398,132011.76,149,148,146,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,75962,70642,69706.96,38,35,35,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000014,Inde Wild Dewy Lip Balms - Transparent,Skin,Lip Care,Lip Balm,43945,41745,40781.63,55,51,51,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000011,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,1999,1859,1657.36,1,1,1,Nykaa Man
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,33966,33966,33549.53,34,34,34,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000010,inde wild Moonlight Scalp Serum,Hair,Hair Care,Hair Serum,47960,45560,44956.27,40,38,37,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000042,inde wild Iconic Duo With Bestselling Champi Hair Oil & Dewy Lip Treatment,Hair,Hair Kits & Combos,Hair Kits,3496,3146,3137.81,2,2,2,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,4600,4372,4222,4,4,4,Nykaa Man
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000018,Inde Wild Rose Sun Mist SPF 50 PA ++++,Skin,Sun Care,Face Sunscreen,9339,8877,8823.87,11,9,9,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000034,inde wild Dewy Lip Balm - Masala Chai,Skin,Lip Care,Lip Balm,11687,11102,11026.74,13,13,13,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000015,inde wild 15% Vitamin C With Turmeric & Niacinamide,Skin,Serums,Serums & Essence,9850,9360,9327.36,5,5,5,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000003,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,2847,2706,2620.21,3,3,3,Nykaa Man
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000036,inde wild Dewy Lip Balms - Caffeine Addict,Skin,Lip Care,Lip Balm,6793,6453,5917.18,7,7,7,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,2300,2186,2186,2,2,2,Nykaa Man
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000044,inde wild Champi Bond Repair Shampoo,Hair,Hair Care,Shampoo,77050,73231,72626.54,67,64,64,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000023,"inde wild Champi Hair Oil With Bhringraj, Brahmi & Amla For Regrowth, Hairfall & Dandruff Control",Hair,Hair Care,Hair Oil,34540,32806,32328.49,88,87,86,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000035,inde wild Sunset Restore Phyto - Retinol Barrier Strengthening Serum,Skin,Serums,Serums & Essence,5910,5616,5583.36,3,3,3,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000019,inde wild Radiant Hair Ritiual Minis Kit,Hair,Hair Kits & Combos,Hair Kits,7184,6464,6256.18,8,8,8,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000022,inde wild Dewy Lip Balms - Glazed Jalebi,Skin,Lip Care,Lip Balm,899,854,839.52,1,1,1,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000026,inde wild Dewy Lip Balms - Wedding Rose,Skin,Lip Care,Lip Balm,12586,11956,11849.05,14,14,14,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000043,inde wild Champi Bond Repair Conditioner,Hair,Hair Care,Conditioner,49450,46999,46564.65,43,41,41,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,499,474,474,1,1,1,Nykaa Man
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000024,"inde wild Moonlight Scalp Serum With Moringa, Bhringraj & Amla For Maintaining Healthy Scalp",Hair,Hair Care,Hair Serum,7485,7110,7049.03,15,15,14,Nykaa Beauty
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000049,inde wild Champi Slick Stick,Hair,Hair Styling,Gels Waxes,999,999,890.64,1,1,1,Nykaa Man
+01-01-2026,3820,Inde Wild,Inde Wild,Brand Company,inde wild,INDEW00000020,inde wild Luscious Locks Hair Kit,Hair,Hair Kits & Combos,Hair Kits,6444,5799,5738,3,3,3,Nykaa Beauty
